@@ -8,7 +8,7 @@ import requests
 
 import download
 
-if len(sys.argv) > 1:
+if len(sys.argv) < 2:
     print('Usage: e621.exe <tags seperated by "+"> <amount (max 320)>')
     sys.exit()
 
