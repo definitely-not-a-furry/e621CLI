@@ -1,10 +1,10 @@
 {
-    "silent-mode": true,
+    "silent-mode": false,
     "debug-mode": false,
     "header-name": "e621CLI",
-    "header-version": "V0.1",
-    "username": "deeznu",
-    "path": "out/fyixen/",
+    "header-version": "V1",
+    "username": "username",
+    "path": "out/",
     "rate-limit": 1,
     "clear-terminal": true
 }
